@@ -1,0 +1,9 @@
+/* top.css */
+div#id_div_foot
+{
+  position:absolute; 
+  z-index: 2; 
+  background-color : rgba( 128, 128, 128, 0.15 );
+  visibility : hidden;
+}
+
